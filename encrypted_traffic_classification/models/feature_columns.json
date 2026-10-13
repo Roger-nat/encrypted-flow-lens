@@ -1,0 +1,12 @@
+[
+  "flow_duration_ms",
+  "fwd_packets",
+  "bwd_packets",
+  "fwd_bytes",
+  "bwd_bytes",
+  "packet_rate",
+  "mean_interarrival_ms",
+  "destination_port",
+  "syn_flag_ratio",
+  "bytes_per_packet"
+]
